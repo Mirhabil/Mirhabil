@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am native android developer, these are my projects:
+
 ### TelegramChat Application 
 https://github.com/bhos-mob-sec/telegramChat-Application-Mirhabil
 
